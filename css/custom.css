@@ -1,0 +1,89 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+    background-image: url(../img/bg2.jpg);
+    background-position: top center;
+    background-size: cover;
+}
+
+main {
+    background-color: #fff;
+    margin: 0px;
+}
+
+h4 {
+    text-align: center;
+}
+
+header {
+    margin-top: 70px;
+    margin-bottom: 50px;
+}
+
+footer {
+    background-color: #003a65;
+    padding: .5% 2%;
+    color: #fff;
+    margin: 30px;
+}
+
+footer p {
+    text-align: center;
+}
+
+.jumbotron {
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#060718+0,0f3f7c+38,376199+59,647a9c+100 */
+    background: #060718;
+    /* Old browsers */
+    background: -moz-linear-gradient(top, #060718 0%, #0f3f7c 38%, #376199 59%, #647a9c 100%);
+    /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, #060718 0%, #0f3f7c 38%, #376199 59%, #647a9c 100%);
+    /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, #060718 0%, #0f3f7c 38%, #376199 59%, #647a9c 100%);
+    /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#060718', endColorstr='#647a9c', GradientType=0);
+    /* IE6-9 */
+}
+
+.jumbotron h2 {
+    color: #FFF;
+    margin: 0px;
+}
+
+.row img {
+    margin: 0 auto;
+}
+
+.jumbotron p {
+    color: #FFF;
+}
+
+.jumbotron h1 {
+    color: #fff;
+}
+
+#display img {
+    width: 100%;
+}
+
+#display {
+    padding: 10px;
+}
+
+#internals img {
+    width: 100%;
+    margin: 0 auto;
+}
+
+#internals {
+    padding: 10px;
+}
+
+.specifications {
+    text-align: left;
+}
+
+.specifications-right {
+    text-align: right;
+}
